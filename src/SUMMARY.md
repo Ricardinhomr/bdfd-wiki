@@ -48,6 +48,7 @@
     - [Sharding](./resources/sharding.md)
     - [Time Format](./resources/timeFormat.md)
     - [Troubleshooting](./resources/troubleshooting.md)
+    - [SaaS Rastreamento](./resources/saasRastreamentoDashboard.md)
 
 - [Functions]()
     - [Introduction](./bdscript/introduction.md)
